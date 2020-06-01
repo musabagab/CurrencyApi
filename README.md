@@ -1,2 +1,2 @@
 #CurrencyApi
-Sudan Currency prices App API
+Sudan GENEH prices App API 
